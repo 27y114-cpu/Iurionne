@@ -1,0 +1,6 @@
+{
+  "name": "Media Manager",
+  "description": "An offline-first, highly secure personal media manager for series, movies, animes, books, mangás, and comics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
